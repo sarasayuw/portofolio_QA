@@ -1,0 +1,17 @@
+{
+  "name": "api_cypress_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "argavi",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^5.0.0",
+    "cypress": "^13.6.1",
+    "cypress-mochawesome-reporter": "^3.7.0",
+    "prettier": "^3.1.1"
+  }
+}
